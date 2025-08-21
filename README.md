@@ -1,9 +1,12 @@
-# ✈️ Airline Reviews Dashboard (Tableau)
+# ✈️ British Airways Review Dashboard (Tableau)
 
 ## 📌 Project Overview
 This project is an **interactive Tableau Dashboard** designed to analyze and visualize **British Airways (BA) customer reviews** across multiple dimensions such as **country, rating, seat comfort, and overall experience**. The goal is to identify patterns in customer satisfaction and provide insights into factors that impact the airline’s performance.
 
 The dashboard enables users to **filter by country, cabin type, and rating**, allowing for dynamic analysis and decision-making. This project is part of my **Tableau portfolio** to showcase advanced data visualization and storytelling skills.
+
+The dataset and concept for this project were inspired by **[Mo Chen's Tableau Portfolio Project](https://www.youtube.com/watch?v=KlAKAarfLRQ)**.  
+This dashboard was built by me from scratch following the tutorial and adding my own enhancements for visualization and interactivity.
 
 ---
 
@@ -54,6 +57,8 @@ The dashboard enables users to **filter by country, cabin type, and rating**, al
 ## 📸 Dashboard Preview
 ![Dashboard Preview](Dashboard_preview.png)
 
+---
+
 ## 📥 Dataset Details
 
 ba_reviews.csv – Contains British Airways customer reviews with columns like:
@@ -62,7 +67,7 @@ Date, Country, Rating, Seat Comfort, Cabin Staff Service, Food & Beverage, Enter
 
 countries.csv – Contains country codes and mapping data for geographic analysis.
 
-
+---
 
 ## ✅ Key Skills Demonstrated
 
@@ -73,6 +78,16 @@ Interactive Dashboard Design in Tableau
 Data Visualization & Storytelling
 
 GitHub Project Documentation
+
+---
+
+## 🙌 Credits
+
+Original idea and dataset source: Mo Chen - Tableau Portfolio Project Video
+
+Dashboard design and implementation: Tafhim Khan
+
+---
 
 ## ✨ Author
 
